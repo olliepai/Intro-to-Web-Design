@@ -1,0 +1,10 @@
+#header {
+    color: navy;
+    font: bold 50px roboto, sans-serif;
+}
+
+.basics {
+    color: orange;
+    font: italic bold 15px roboto, sans-serif;
+    border-style: solid;
+}
